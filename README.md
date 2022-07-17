@@ -1,4 +1,4 @@
-# 100DaysOfSwiftUI-Day25ChallengeSolved
+# 100DaysOfSwiftUI-Day25ChallengePersonalSolution
 Personal Solution to Paul Hudson's 100 days of SwifUI, Day 25 Challenge
 
 The said challenge's description:
